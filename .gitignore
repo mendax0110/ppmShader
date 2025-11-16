@@ -1,0 +1,10 @@
+# build folders
+build/
+cmake-build-*/
+
+# ide folders
+.vscode/
+.idea/
+
+# platform specific files
+.DS_Store
