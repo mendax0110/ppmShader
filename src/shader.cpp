@@ -1,5 +1,5 @@
 #include <utility>
-
+#include <cmath>
 #include "../include/shader.h"
 
 Shader::Shader(int width, int height, int fps)
